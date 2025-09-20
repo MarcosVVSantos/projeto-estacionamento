@@ -150,10 +150,6 @@ Ano: Entre 1900 e ano atual + 1
 
 Mensalidade: Valor positivo
 
-📞 Suporte
-Para dúvidas ou issues, abra uma ticket no GitHub Issues
 
-📄 Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 Desenvolvido por Marcos Vinicius 🚀
